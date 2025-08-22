@@ -1,4 +1,4 @@
-# Zusammenfassung: Python-Grundlagen für Anfänger
+# 00_Zusammenfassung: Python-Grundlagen für Anfänger
 
 Diese Zusammenfassung basiert auf den bereitgestellten Dokumenten und führt dich schrittweise in die Grundlagen der Programmierung mit Python ein. Sie deckt die grundlegenden Konzepte, die Arbeit mit Listen sowie die Verwendung von Funktionen und Paketen ab und schließt mit einer Einführung in die leistungsstarke NumPy-Bibliothek.
 
@@ -264,5 +264,6 @@ NumPy ist das Fundament der Datenanalyse in Python und bietet viele eingebaute s
 * [cite_start]`np.corrcoef()`: Berechnet die Korrelation zwischen zwei Arrays[cite: 1187].
 
 ---
+
 
 Ich hoffe, diese erweiterte Zusammenfassung gibt dir einen soliden Überblick für deinen Start in Python und die Datenanalyse!
